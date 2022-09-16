@@ -1,5 +1,5 @@
 {
-  "homepage": "https://AmreenNaz24.github.io/myFirstReactUpload",
+  "homepage": "https://AmreenNaz24.github.io/Test1",
   "name": "react-complete-guide",
   "version": "0.1.0",
   "private": true,
@@ -10,6 +10,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "4.0.1",
+    "save-dev": "^0.0.1-security",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
